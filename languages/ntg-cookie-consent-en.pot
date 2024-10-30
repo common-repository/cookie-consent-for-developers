@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-04 23:39+0100\n"
+"PO-Revision-Date: 2018-10-31 00:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ntg-cookie-consent-admin.php:121
+msgid "Visual settings"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:129
+msgid "Code settings"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:138
+msgid "Text in informative window (can be HTML)"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:151
+msgid "Text on Accept button"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:164
+msgid "Text on Learn more button"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:178
+msgid "ID of the more about cookies page"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:191
+msgid "Use separate css file, pre-defined or your custom css file"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:204
+msgid ""
+"Scripts in &lt;head&gt; tag, without code that executes those scripts, "
+"enclosed with &lt;script> and &lt;/script&gt; other HTML is optional <b>*</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:216
+msgid ""
+"Code that executes scripts in &lt;head&gt; tag, without any HTML <b>ǂ</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:228
+msgid ""
+"Footer scripts in &lt;body&gt; tag, without code that executes those "
+"scripts, other HTML optional"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:240
+msgid "Code that executes scripts in &lt;body&gt; tag, without any HTML"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:252
+msgid "Opt-out javascript code <b>§</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:264
+msgid ""
+"Custom javascript code, can be used for special effects like transitions "
+"&amp;"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:28
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:51
+#: admin/partials/ntg-cookie-consent-admin-display.php:55
+#: admin/partials/ntg-cookie-consent-admin-display.php:63
+#: admin/partials/ntg-cookie-consent-admin-display.php:67
+msgid "example"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:72
+msgid "And you have to set transitions in your css, e.g."
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:85
+msgid "Settings related to showing cookie info box and learn more page"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:91
+msgid "Settings related to javascript code which sets cookies"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:175
+msgid ""
+"If you choose &quot;Not used&quot;, no css file will be used; while for "
+"custom you shoud provide &quot;public/css/ccfd_custom.css&quot; file"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:176
+msgid "Not used"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:177
+msgid "Blocking Info Box"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:178
+msgid "Ribbon at the bottom"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:179
+msgid "Custom CSS file"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:206
+msgid "Cookie expiry interval in days"
+msgstr ""

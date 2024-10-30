@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie consent for developers 1.0\n"
+"POT-Creation-Date: 2018-11-04 23:36+0100\n"
+"PO-Revision-Date: 2021-01-07 16:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lovro Hrust\n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ntg-cookie-consent-admin.php:121
+msgid "Visual settings"
+msgstr "Vizualne postavke"
+
+#: admin/class-ntg-cookie-consent-admin.php:129
+msgid "Code settings"
+msgstr "Postavke koda"
+
+#: admin/class-ntg-cookie-consent-admin.php:138
+msgid "Text in informative window (can be HTML)"
+msgstr "Tekst u informativnom prozoru (može biti HTML)"
+
+#: admin/class-ntg-cookie-consent-admin.php:151
+msgid "Text on Accept button"
+msgstr "Tekst na gumbu Prihvati"
+
+#: admin/class-ntg-cookie-consent-admin.php:164
+msgid "Text on Learn more button"
+msgstr "Tekst na gumbu Saznaj više"
+
+#: admin/class-ntg-cookie-consent-admin.php:178
+msgid "ID of the more about cookies page"
+msgstr "ID stranice više o kolačićima"
+
+#: admin/class-ntg-cookie-consent-admin.php:191
+msgid "Use separate css file, pre-defined or your custom css file"
+msgstr ""
+"Koristi posebnu css datoteku, već priloženu ili prilagođenu css datoteku"
+
+#: admin/class-ntg-cookie-consent-admin.php:204
+msgid ""
+"Scripts in &lt;head&gt; tag, without code that executes those scripts, "
+"enclosed with &lt;script> and &lt;/script&gt; other HTML is optional <b>*</b>"
+msgstr ""
+"Izvršni dio skripte u &lt;head&gt; tagu, bez koda koji izvršava te skripte, "
+"zatvoren &lt;script&gt; i &lt;/script&gt; , drugi HTML kod je opcionalan "
+"<b>*</b>"
+
+#: admin/class-ntg-cookie-consent-admin.php:216
+msgid ""
+"Code that executes scripts in &lt;head&gt; tag, without any HTML <b>ǂ</b>"
+msgstr "Kod koji izvršava skripte u &lt;head&gt; tagu, bez HTML koda ǂ"
+
+#: admin/class-ntg-cookie-consent-admin.php:228
+msgid ""
+"Footer scripts in &lt;body&gt; tag, without code that executes those "
+"scripts, other HTML optional"
+msgstr ""
+"Kod u footeru u &lt;body&gt; tagu, bez izvršnog dijela koji ga pokreće, "
+"uključujući opcionalni HTML"
+
+#: admin/class-ntg-cookie-consent-admin.php:240
+msgid "Code that executes scripts in &lt;body&gt; tag, without any HTML"
+msgstr "Kod koji izvršava skripte u &lt;body&gt; tagu, bez HTML-a"
+
+#: admin/class-ntg-cookie-consent-admin.php:252
+msgid "Opt-out javascript code <b>§</b>"
+msgstr "Opt-out javascript kod <b>§</b>"
+
+#: admin/class-ntg-cookie-consent-admin.php:264
+msgid ""
+"Custom javascript code, can be used for special effects like transitions "
+"&amp;"
+msgstr ""
+"Prilagođeni javascript kod, može se koristiti za posebne efekte kao "
+"tranzicije &amp;"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:28
+msgid "Settings Saved"
+msgstr "Postavke su snimljene"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:51
+#: admin/partials/ntg-cookie-consent-admin-display.php:55
+#: admin/partials/ntg-cookie-consent-admin-display.php:63
+#: admin/partials/ntg-cookie-consent-admin-display.php:67
+msgid "example"
+msgstr "primjer"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:72
+msgid "And you have to set transitions in your css, e.g."
+msgstr "i treba postaviti tranzicije u css-u, npr."
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:85
+msgid "Settings related to showing cookie info box and learn more page"
+msgstr "Postavke za prikaz info poruke i stranice saznaj više"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:91
+msgid "Settings related to javascript code which sets cookies"
+msgstr "Postavke javascript koda koji postavlja kolačiće"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:175
+msgid ""
+"If you choose &quot;Not used&quot;, no css file will be used; while for "
+"custom you shoud provide &quot;public/css/ccfd_custom.css&quot; file"
+msgstr ""
+"Ako izaberete &quot;Ne koristi se&quot; css file neće biti korišten, dok "
+"ćete za opciju &quot;Prilagođeni css&quot; trebati priložiti datoteku &quot;"
+"public/css/ccfd_custom.css&quot;"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:176
+msgid "Not used"
+msgstr "Ne koristi se"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:177
+msgid "Blocking Info Box"
+msgstr "Blokirajući prozor"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:178
+msgid "Ribbon at the bottom"
+msgstr "Traka na dnu prozora"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:206
+msgid "Cookie expiry interval in days"
+msgstr "Interval trajanja kolačića"
